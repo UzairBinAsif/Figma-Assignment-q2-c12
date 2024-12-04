@@ -1,4 +1,6 @@
 Assignment of class 12 given by Sir Jawwad at GIAIC. Please use NextJS version 14.2.2 if it's not working on latest.
+NOTE:
+It is non-Responsive but Pixel Perfect Website clone (design).
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
